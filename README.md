@@ -35,9 +35,8 @@ Example: python CVE-2023-31756-LongBow.py --ip 192.168.1.1 --session b3223de242c
 7. If successful, a root level shell will be available on port 23. Use telnet to connect (e.g. telnet 192.168.1.1 23)
 
 ## Screenshots
-[Screenshot1.PNG]
-
-[Screenshot2.PNG]
+![Image 1](Screenshot1.PNG)
+![Image 2](Screenshot2.PNG)
 
 ## Exploit Details
 
