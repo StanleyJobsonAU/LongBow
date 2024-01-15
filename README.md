@@ -34,6 +34,11 @@ Example: python CVE-2023-31756-LongBow.py --ip 192.168.1.1 --session b3223de242c
 
 7. If successful, a root level shell will be available on port 23. Use telnet to connect (e.g. telnet 192.168.1.1 23)
 
+## Screenshots
+[Screenshot1.PNG]
+
+[Screenshot2.PNG]
+
 ## Exploit Details
 
 This script takes advantage of a local remote command execution vulnerability in Archer TP-Link V1/V2 routers Web Interface. The vulnerability allows an attacker to gain administrative access to the router's operating system by binding an OS level shell to Telnet
