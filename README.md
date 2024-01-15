@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script demonstrates a local remote command execution vulnerability within the Archer TP-Link V1/V2 routers. The exploit allows for administrative-level operating system access on the router. With this access, you can re-enable OpenVPN server as well as disable CWMP and other Administrative tasks restricted from the Web Portal.
+This Python script demonstrates a local remote command execution vulnerability within the Archer TP-Link VR1600V V1/V2 routers. The exploit allows for administrative-level operating system access on the router. With this access, you can re-enable OpenVPN server as well as disable CWMP and other Administrative tasks restricted from the Web Portal.
 
 ## Prerequisites
 
