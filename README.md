@@ -1,4 +1,4 @@
-# Archer TP-Link Router Local Remote Command Execution Exploit (CVE-2023-31756)
+# Archer TP-Link VR1600V Router Local Remote Command Execution Exploit (CVE-2023-31756)
 
 ## Overview
 
